@@ -1,2 +1,2 @@
 # Service-Management-Automation-Technical-Certification
-Micro Focus
+Service Management Automation Technical Certification by Micro Focus
